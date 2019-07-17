@@ -244,9 +244,8 @@ _"学園祭でヤキトリを売って10人で3000円の利益があったとし
 ---
 
 _"大抵の人は面白くない映画を観ていても席を立つことはない……。なぜか。それはチケットを買ってしまったから。 (略) 退屈でなんの楽しみも得られない全て無駄な時間を過ごしているにもかかわらず……。"_
-
 <div style="text-align:center;">
-  <img src="./fig/investorz.webp" style="width:23%;"/>
+  <img src="./fig/investorz.webp" style="width:18%;"/>
 </div>
 「インベスターZ」2巻
 
