@@ -1,0 +1,6 @@
+theme: "beige"
+author: "Mitsuhiro Okano"
+title: "Introduction to Economics" # スライドごとに変えています。
+revealjs_config: 
+  slideNumber: true
+  history: true
