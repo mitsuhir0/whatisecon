@@ -1,3 +1,11 @@
+---
+
+<div style="text-align:center;">
+  <img src="./fig/qr.png" style="width:40%;"/>
+</div>
+本日の資料にはスマホからアクセスできます。
+
+---
 ## 経済合理的な選択とは？
 ### 〜経済学を学ぶ〜
 大阪学院大学経済学部  岡野光洋
