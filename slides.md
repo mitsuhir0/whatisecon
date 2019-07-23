@@ -1,11 +1,3 @@
----
-
-<div style="text-align:center;">
-  <img src="./fig/qr.png" style="width:40%;"/>
-</div>
-本日の資料にはスマホからアクセスできます。
-
----
 ## 経済合理的な選択とは？
 ### 〜経済学を学ぶ〜
 大阪学院大学経済学部  岡野光洋
@@ -324,3 +316,9 @@ _"配られたカードで勝負するしかないのさ"_
 -  [ティモシー・テイラー(2013)『スタンフォード大学で一番人気の経済学入門　ミクロ編』かんき出版．](https://www.amazon.co.jp/dp/B00E3J1T0O/)
 -  [三田紀房(2013)『インベスターZ(2)』 コルク.](https://www.amazon.co.jp/gp/product/B00H7OSZYA)
 
+---
+
+<div style="text-align:center;">
+  <img src="./fig/qr.png" style="width:40%;"/>
+</div>
+本日の資料にはスマホからアクセスできます。
