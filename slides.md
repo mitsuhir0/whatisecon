@@ -324,3 +324,5 @@ _"配られたカードで勝負するしかないのさ"_
   <img src="./fig/qr.png" style="width:40%;"/>
 </div>
 本日の資料にはスマホからアクセスできます。
+
+PDF版は[こちら](https://drive.google.com/file/d/1-mEwRm5RlPs9ADhPpTmIEYryzOTryNVf/view?usp=sharing)。
