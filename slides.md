@@ -450,7 +450,7 @@ _"誰かの願いが叶うころ　あの子が泣いてるよ
 - 市場取引(需要と供給)にまかせる
 - 価格が上下して、うまくいくことが多い(見えざる手)
 
-![sde](https://github.com/mitsuhir0/whatisecon/blob/master/fig/sde.svg?raw=true)
+![sde](https://upload.wikimedia.org/wikipedia/commons/7/79/Supply-demand-right-shift-supply.svg)
 (出典) wikimedia
 
 ---
@@ -465,7 +465,6 @@ _"誰かの願いが叶うころ　あの子が泣いてるよ
 
 ***
 ***
-
 ### 経済学とは
 
 有限の資源を有効に活用するための学問
