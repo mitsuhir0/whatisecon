@@ -368,7 +368,7 @@ _Cool Head, but Warm Heart._
 
 ## 経済って何？
 
-![arrow](./fig/arrow.png)
+![arrow](https://github.com/mitsuhir0/whatisecon/blob/master/fig/arrow.png?raw=true)
 (下にスクロールしてください)
 
 ---
@@ -435,7 +435,7 @@ _Cool Head, but Warm Heart._
 ---
 
 <div style="text-align:center;">
-  <img src="./fig/utada.jpeg" style="width:30%;"/>
+  <img src="https://github.com/mitsuhir0/whatisecon/blob/master/fig/utada.jpeg?raw=true" style="width:30%;"/>
 </div>
 
 _"誰かの願いが叶うころ　あの子が泣いてるよ  
@@ -450,7 +450,7 @@ _"誰かの願いが叶うころ　あの子が泣いてるよ
 - 市場取引(需要と供給)にまかせる
 - 価格が上下して、うまくいくことが多い(見えざる手)
 
-![sde](./fig/sde.svg)
+![sde](https://github.com/mitsuhir0/whatisecon/blob/master/fig/sde.svg?raw=true)
 (出典) wikimedia
 
 ---
@@ -460,7 +460,7 @@ _"誰かの願いが叶うころ　あの子が泣いてるよ
 1. 「誰も傷つけずに誰かが幸せになれる方法」を採用。
 2. これ以上誰も、他の誰かを傷つけることなしには幸せにはなれない状態になったとき、それを最適とみなす。
 
-![EdgeworthBox](./fig/EdgeworthBox.png)
+![EdgeworthBox](https://github.com/mitsuhir0/whatisecon/blob/master/fig/EdgeworthBox.png?raw=true)
 (出典) wikimedia
 
 ***
@@ -513,7 +513,7 @@ _"誰かの願いが叶うころ　あの子が泣いてるよ
 
 ---
 
-![happiness](./fig/happiness.jpg)
+![happiness](https://github.com/mitsuhir0/whatisecon/blob/master/fig/happiness.jpg?raw=true)
 
 _"お金は幸福になるもっとも確実な方法"_  
 [幸福の「資本」論 | ダイヤモンド・オンライン](https://diamond.jp/articles/-/141130)
@@ -610,7 +610,7 @@ _"大抵の人は面白くない映画を観ていても席を立つことはな
 ---
 
 <div style="text-align:center;">
-  <img src="./fig/investorz.webp" style="width:35%;"/>
+  <img src="https://github.com/mitsuhir0/whatisecon/blob/master/fig/investorz.webp?raw=true" style="width:35%;"/>
 </div>
 「インベスターZ」2巻より引用
 
@@ -655,7 +655,7 @@ _"店の料理がマズかったら、何も食べずに出て、家でお茶漬
 
 ---
 
-![snoopy](./fig/snoopy.jpg)
+![snoopy](https://github.com/mitsuhir0/whatisecon/blob/master/fig/snoopy.jpg?raw=true)
 
 _"配られたカードで勝負するしかないのさ"_
 
@@ -684,7 +684,7 @@ _"配られたカードで勝負するしかないのさ"_
 ---
 
 <div style="text-align:center;">
-  <img src="./fig/qr.png" style="width:40%;"/>
+  <img src="https://github.com/mitsuhir0/whatisecon/blob/master/fig/qr.png?raw=true" style="width:40%;"/>
 </div>
 本日の資料にはスマホからアクセスできます。
 
