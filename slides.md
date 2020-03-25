@@ -36,14 +36,14 @@
 
 ---
 
-世界の感染地図
+[世界の感染地図](https://www.ft.com/coronavirus-latest)
 
 ![map](https://ig.ft.com/autograph/graphics/coronavirus-map.svg?frame=webL)
 
 ---
 
 世界の感染者数推移
-![country_by_country](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fbf624406-6c77-11ea-89df-41bea055720b?fit=scale-down&quality=highest&source=next&width=1260)
+![country_by_country](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fee80319c-6eea-11ea-89df-41bea055720b?fit=scale-down&quality=highest&source=next&width=1260)
 
 ---
 
