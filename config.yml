@@ -4,4 +4,4 @@ title: "Introduction to Economics"
 revealjs_config: 
   slideNumber: true
   history: true
-  transition: slide
+  transition: fade
