@@ -1,7 +1,7 @@
 theme: "beige"
 author: "Mitsuhiro Okano"
-title: "Introduction to Economics" # スライドごとに変えています。
+title: "Introduction to Economics" 
 revealjs_config: 
   slideNumber: true
   history: true
-  transition: slide
+  transition: fade
